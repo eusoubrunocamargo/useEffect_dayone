@@ -1,0 +1,11 @@
+.header_container {
+    background-color: cornflowerblue;
+    width: 50%;
+    border-radius: 10rem;
+    padding: 1rem;
+    color: aliceblue;
+    margin: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

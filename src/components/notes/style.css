@@ -1,0 +1,14 @@
+.notes_container {
+    background-color: white;
+    width: 50%;
+    height: 10rem;
+    margin-bottom: 1rem;
+    border-radius: 0.5rem;
+    display: flex;
+}
+
+.notes_textarea {
+    all: unset;
+    padding: 1rem;
+    width: 100%;
+}

@@ -1,0 +1,21 @@
+.menu_container {
+    background-color: hsla(219, 50%, 66%);
+    width: 50%;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 3rem;
+    margin-bottom: 1rem;
+}
+
+button {
+    all: unset;
+    border-radius: 0.5rem;
+}
+
+button:hover {
+    border: solid 1px white;
+}
